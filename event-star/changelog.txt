@@ -1,0 +1,56 @@
+== Change log ==
+
+= 3.0.4 - August 01 2023 =
+* Added: Recommended Classic Widgets plugin
+* Updated: WordPress latest compatibility
+
+= 3.0.3 - Feb 15 2022 =
+* Updated: WordPress latest compatibility
+
+= 3.0.2 - July 21 2021 =
+* Added: WordPress 5.8 compatibility
+
+= 3.0.1 - June 25 2021 =
+* Fixed   :  Notice on Editor Gutenberg Editor
+* Updated   :  RTL CSS
+
+= 3.0.0 - Jan 13 2021 =
+* Added   : Advanced Demo Import
+* Added   : Links within content must be underlined
+* Removed : Acme Demo Setup Plugin from TGM
+* Updated : Getting Started experience
+* Fixed   : Breadcrumbs error on google console, $item,$attributes,$meta updates inside function trail
+* Fixed   : New theme check issues
+
+= 2.0.1 - Oct 15 2019=
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wpml-config.xml file for language translation
+* Fixed : Screen Reader Text
+
+= 2.0.0 - June 08 2019 =
+* Added : Both and Middle Column Sidebar layout
+* Added : Gutenberg Ready
+* Update : RTL CSS
+* Fixed : Space before DOCTYPE
+
+= 1.0.3 =
+* Updated : Count issue fixed
+
+= 1.0.2 =
+* Added : Upgrade to Pro
+* Added : Theme Info Page
+* Added : RTL Language support
+* Added : Editor Style
+* Fixed : Minor Code and Bugs
+
+= 1.0.1 =
+* Updated : Minor Code and Bugs
+
+= 1.0.0 =
+* Updated : Screenshot
+* Updated : Code Structure and Widget
+* Updated : Design Changes
+
+= 0.0.1 - Jan 29 2018 =
+* Submitted to WordPress.org

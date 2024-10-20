@@ -1,0 +1,96 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_event-star">
+            <key name="event_star_theme_options">
+                /*logo and site title*/
+                <key name ="event-star-display-site-logo"/>
+                <key name ="event-star-display-site-title"/>
+                <key name ="event-star-display-site-tagline"/>
+
+                /*header height*/
+                <key name ="event-star-header-height"/>
+
+                /*header top*/
+                <key name ="event-star-enable-header-top"/>
+                <key name ="event-star-header-top-menu-display-selection"/>
+                <key name ="event-star-header-top-news-display-selection"/>
+                <key name ="event-star-header-top-social-display-selection"/>
+                <key name ="event-star-newsnotice-title"/>
+                <key name ="event-star-newsnotice-cat"/>
+
+                /*menu options*/
+                <key name ="event-star-enable-sticky"/>
+                <key name ="event-star-menu-right-button-options"/>
+                <key name ="event-star-menu-right-button-title"/>
+                <key name ="event-star-menu-right-button-link"/>
+                <key name ="event-star-enable-cart-icon"/>
+
+                /*feature section options*/
+                <key name ="event-star-enable-feature"/>
+                <key name ="event-star-slides-data"/>
+                <key name ="event-star-feature-slider-enable-animation"/>
+                <key name ="event-star-feature-slider-display-title"/>
+                <key name ="event-star-feature-slider-display-excerpt"/>
+                <key name ="event-star-fs-image-display-options"/>
+                <key name ="event-star-feature-slider-text-align"/>
+
+                /*basic info*/
+                <key name ="event-star-feature-info-display-options"/>
+                <key name ="event-star-feature-info-number"/>
+                <key name ="event-star-first-info-icon"/>
+                <key name ="event-star-first-info-title"/>
+                <key name ="event-star-first-info-desc"/>
+                <key name ="event-star-second-info-icon"/>
+                <key name ="event-star-second-info-title"/>
+                <key name ="event-star-second-info-desc"/>
+                <key name ="event-star-third-info-icon"/>
+                <key name ="event-star-third-info-title"/>
+                <key name ="event-star-third-info-desc"/>
+                <key name ="event-star-forth-info-icon"/>
+                <key name ="event-star-forth-info-title"/>
+                <key name ="event-star-forth-info-desc"/>
+
+                /*footer options*/
+                <key name ="event-star-footer-copyright"/>
+                <key name ="event-star-footer-copyright-beside-option"/>
+
+                /*layout/design options*/
+                <key name ="event-star-enable-animation"/>
+
+                <key name ="event-star-single-sidebar-layout"/>
+                <key name ="event-star-front-page-sidebar-layout"/>
+                <key name ="event-star-archive-sidebar-layout"/>
+
+                <key name ="event-star-blog-archive-img-size"/>
+                <key name ="event-star-blog-archive-content-from"/>
+                <key name ="event-star-blog-archive-excerpt-length"/>
+                <key name ="event-star-blog-archive-more-text"/>
+
+                <key name ="event-star-primary-color"/>
+                <key name ="event-star-header-top-bg-color"/>
+                <key name ="event-star-footer-bg-color"/>
+                <key name ="event-star-footer-bottom-bg-color"/>
+
+                <key name ="event-star-hide-front-page-content"/>
+                <key name ="event-star-hide-front-page-header"/>
+
+                /*single*/
+                <key name ="event-star-single-header-title"/>
+                <key name ="event-star-single-img-size"/>
+
+                /*theme options*/
+                <key name ="event-star-popup-widget-title"/>
+                <key name ="event-star-show-breadcrumb"/>
+                <key name ="event-star-search-placeholder"/>
+                <key name ="event-star-social-data"/>
+
+                <key name ="event-star-days-text"/>
+                <key name ="event-star-hours-text"/>
+                <key name ="event-star-min-text"/>
+                <key name ="event-star-second-text"/>
+                <key name ="event-star-event-expire-text"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
