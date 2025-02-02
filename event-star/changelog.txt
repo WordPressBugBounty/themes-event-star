@@ -1,5 +1,9 @@
 == Change log ==
 
+= 3.0.5 - Jan 22 2025 =
+* Added: Enhanced support for the latest WordPress version.
+* Updated: Improved CSS compatibility.
+
 = 3.0.4 - August 01 2023 =
 * Added: Recommended Classic Widgets plugin
 * Updated: WordPress latest compatibility
